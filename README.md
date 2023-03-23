@@ -1,4 +1,4 @@
-# codingtest_programmers
+# codingtest
   코딩테스트 연습하기 (Java)
   -----------------------
  #### 1. DAY01 사칙연산 (230224)
