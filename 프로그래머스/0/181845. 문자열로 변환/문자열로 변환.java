@@ -1,5 +1,6 @@
 class Solution {
     public String solution(int n) {
-        return Integer.toString(n);
+        String answer = "" + n;
+        return answer;
     }
 }
